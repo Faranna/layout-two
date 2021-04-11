@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+}
+.header {
+    background-color: blue;
+    height: 100px;
+
+}
+.parent_content {
+    overflow: hidden;
+}
+.first_content {
+    background-color: blueviolet;
+    height: 400px;
+    width: 30%;
+    float: left;
+}
+
+.second_content {
+    background-color: brown;
+    height: 400px;
+    width: 50%;
+    float: left;
+}
+.third_content {
+    background-color: burlywood;
+    height: 400px;
+    width: 20%;
+    float: right;
+}
+.main_content {
+    background-color: cornflowerblue;
+    height: 300px;
+}
+
+.footer {
+    background-color: cyan;
+    height: 150px;
+}
